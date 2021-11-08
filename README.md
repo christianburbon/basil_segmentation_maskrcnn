@@ -6,7 +6,7 @@ To be able to run the code, the environment needs to be setup properly for Mask 
 
 ## Running the codes
 
-#### Dataset
+#### *Dataset*
 * Images can be found ![here](https://drive.google.com/drive/folders/1nga2TyWUemc9DHM6kIWc-S-rYOi73gq8?usp=sharing). These contain the images for train, validation, and test sets for the original resolution, splitted, and cross-validation fold images.
 
 Use these to skip steps 1 and 2
