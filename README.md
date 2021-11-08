@@ -9,9 +9,12 @@ To be able to run the code, the environment needs to be setup properly for Mask 
 ### Dataset
 Use these to skip steps 1 and 2
 * Images can be found here https://drive.google.com/drive/folders/1nga2TyWUemc9DHM6kIWc-S-rYOi73gq8?usp=sharing
-* Annotations can be found in the annotations folder
-  * For leaf and plant related annotations. go to folder #leaf and plant#
-    * asd
+* Annotations can be found in the annotations folder. Each of the subfolders mentioned below should have a json file that has either *train* or *val* label which are used for train, and validation sets respectively.
+  * For leaf and plant related annotations. go to folder *leaf and plant*. It should contain a folder names final_annotaitons where the following is found
+    * leaf and plant
+    * leaf only
+    * plant only
+  * For plant ready or not ready. go to folder *ready and not ready*. It should contain a folder named final_annotations
 
 
 ### Step 1: Run the data_preloader_1.py
